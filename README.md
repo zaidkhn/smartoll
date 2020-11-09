@@ -15,9 +15,11 @@ gate. The user has to select the source and destination and have to pay all toll
 the source and destination of his own. This will avoid traffic and also pollution
 
 ```
+![alt text](https://github.com/zaidkhn/smartoll/blob/main/smartoll%20images/1.png)
 Fig.1.1. Hardware Structure of the Project
 ```
 ```
+!(https://github.com/zaidkhn/smartoll/blob/main/smartoll%20images/2.png)
 Fig.1.2. Project Banner
 ```
 
@@ -36,6 +38,7 @@ limitations of the today’s toll system. Instead of a cash payment, our system 
 toll payment app.
 
 ```
+!(https://github.com/zaidkhn/smartoll/blob/main/smartoll%20images/3.png)
 Fig.1.1.1. Registration for Toll Payment via Mobile Application.
 ```
 ```
@@ -119,6 +122,7 @@ The whole system includes three levels:
 3. Central level.
 
 ```
+!(https://github.com/zaidkhn/smartoll/blob/main/smartoll%20images/4.png)
 Fig.2.1 System Overview of “opened and closed system”
 ```
 Example 2:
@@ -139,6 +143,7 @@ including time, date, plaza and toll charge of each vehicle.
 But this system uses RFID tags which means if RFID tags fails the whole system fails.
 
 ```
+!(https://github.com/zaidkhn/smartoll/blob/main/smartoll%20images/5.png)
 Fig 2.2 System overview of “Electronic Toll System”
 ```
 An improvement in these above mentioned system is the SMARTOLL (Automated Toll Collection
@@ -298,17 +303,19 @@ the all departments which will be located in different places and by keeping dom
 as Online.
 
 ```
+!(https://github.com/zaidkhn/smartoll/blob/main/smartoll%20images/6.png)
 Fig.4.1.1 DFD Diagram
 ```
-
+!(https://github.com/zaidkhn/smartoll/blob/main/smartoll%20images/7.png)
 Fig.4.1.2. Activity Diagram.
 
 
 ### Use Case Diagram
-
+!(https://github.com/zaidkhn/smartoll/blob/main/smartoll%20images/8.png)
 Fig.4.1.3.
 
 ```
+!(https://github.com/zaidkhn/smartoll/blob/main/smartoll%20images/9.png)
 Fig.4.1.4. Gantt Chart.
 ```
 
