@@ -15,11 +15,11 @@ gate. The user has to select the source and destination and have to pay all toll
 the source and destination of his own. This will avoid traffic and also pollution
 
 ```
-![alt text](https://github.com/zaidkhn/smartoll/blob/main/smartoll%20images/1.png)
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/1.png?raw=true)
 Fig.1.1. Hardware Structure of the Project
 ```
 ```
-!(https://github.com/zaidkhn/smartoll/blob/main/smartoll%20images/2.png)
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/2.png?raw=true)
 Fig.1.2. Project Banner
 ```
 
