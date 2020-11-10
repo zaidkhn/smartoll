@@ -14,17 +14,17 @@ the user just have to scan the QR Code which provided to him/her and then pass t
 gate. The user has to select the source and destination and have to pay all toll tax coming between
 the source and destination of his own. This will avoid traffic and also pollution
 
-```
-![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/1.png)
+
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/1.png?raw=true)
 
 Fig.1.1. Hardware Structure of the Project
-```
-```
+
+
 
 ![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/2.png?raw=true)
 
 Fig.1.2. Project Banner
-```
+
 
 ### 1.1 ABOUT THE PROJECT
 
@@ -40,33 +40,33 @@ speeding up the toll collection process up to a certain level. Our system aims t
 limitations of the today’s toll system. Instead of a cash payment, our system uses a smart-phone based
 toll payment app.
 
-```
-!(https://github.com/zaidkhn/smartoll/blob/main/smartoll%20images/3.png)
+
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/3.png?raw=true)
 Fig.1.1.1. Registration for Toll Payment via Mobile Application.
-```
-```
+
+
 Database
 Analyzing
 the user
 details
-```
-```
+
+
 Access Granted
-```
-```
+
+
 Access Denied
-```
-```
+
+
 If
 Correct
-```
-```
+
+
 If
 Incorrect
 Registration
 using Mobile
 Application
-```
+
 
 ### 1.2 AIM & OBJECTIVE OF THE PROJECT
 
@@ -77,34 +77,33 @@ Conventional tolling system requires the vehicle to stop at a toll gate and the 
 paid. This is a slow system as manual processing often leads to delay and vehicles have to wait
 near a toll gate area.
 
-```
- Today’s toll paying system requires manual labour.
- Travellers have to wait in queue to pay toll.
- Travellers need to carry exact change.
- Excessive pollution near toll booths.
- Hand-to-Hand transaction of amount is more time consuming.
-```
+
+* Today’s toll paying system requires manual labour.
+* Travellers have to wait in queue to pay toll.
+* Travellers need to carry exact change.
+* Excessive pollution near toll booths.
+* Hand-to-Hand transaction of amount is more time consuming.
 
 ### 1.3 ADVANTAGES
 
- Reduction in waiting time at toll queue.
+* Reduction in waiting time at toll queue.
 The waiting time at the toll is the major issue. The main reason is number of increasing
 vehicles day-to-day. Due to our system waiting time is reduced.
 
- Faster and more efficient services :
+* Faster and more efficient services :
 There is no requirement of human resources except for maintenance of the devices and
 since using machines there is less chance of error which occur due to humans
 
- Reduces manual labour and delays occurring while paying amounts.
+* Reduces manual labour and delays occurring while paying amounts.
 Human error while taking and giving money is reduced due to our system.
 
- Reduce pollution problem near toll booth.
+* Reduce pollution problem near toll booth.
 Since our system is totally online and the payment does not require to be done at the toll
 thus the pollution is reduced.
 
- Easy to use and simple to carry app in mobile devices.
- Reduces illegal toll gate entry.
- Avoid financial loss.
+* Easy to use and simple to carry app in mobile devices.
+* Reduces illegal toll gate entry.
+* Avoid financial loss.
 
 
 ## CHAPTER 2
@@ -124,10 +123,10 @@ The whole system includes three levels:
 2. Plaza level.
 3. Central level.
 
-```
-!(https://github.com/zaidkhn/smartoll/blob/main/smartoll%20images/4.png)
+
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/4.png?raw=true)
 Fig.2.1 System Overview of “opened and closed system”
-```
+
 Example 2:
 
 Electronic Toll Collection System is designed in such a way that as the vehicle approaches the toll
@@ -145,19 +144,17 @@ including time, date, plaza and toll charge of each vehicle.
 
 But this system uses RFID tags which means if RFID tags fails the whole system fails.
 
-```
-!(https://github.com/zaidkhn/smartoll/blob/main/smartoll%20images/5.png)
+
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/5.png?raw=true)
 Fig 2.2 System overview of “Electronic Toll System”
-```
+
 An improvement in these above mentioned system is the SMARTOLL (Automated Toll Collection
 System), which requires users to have an android application. As the vehicle passes the toll gate,
 the user has to scan the QRCODE and the toll amount is deducted from the prepaid account
 balance. This allows speeding up the toll collection process up to a certain level. Our system aims
 to overcome the limitations of the today’s toll system. Instead of a cash payment, our system uses
 a smart-phone based toll payment app. The gate opens and closes as the vehicle is fully passed
-through the toll gate which is recognized by the IR Scanners at both the entry and exit point of the
-
-### toll gate.
+through the toll gate which is recognized by the IR Scanners at both the entry and exit point of the toll gate.
 
 
 ## CHAPTER 3
@@ -185,9 +182,7 @@ An improvement in the traditional system is the SMARTOLL (Automated Toll Collect
 System), which requires users to have an android application. As the vehicle passes the toll gate,
 the user has to scan the QRCODE and the toll amount is deducted from the prepaid account
 balance. This allows speeding up the toll collection process up to a certain level. Our system aims
-to overcome the limitations of the today’s toll system. Instead of a cash payment, our system uses
-
-### a smart-phone based toll payment app.
+to overcome the limitations of the today’s toll system. Instead of a cash payment, our system uses a smart-phone based toll payment app.
 
 
 ## CHAPTER 4
@@ -249,14 +244,13 @@ questionnaire are the tools used system analysis.
 Using the following steps it becomes easy to draw the exact boundary of the new system under
 consideration:
 
-```
- Keeping in view the problems and new requirements
- Workout the pros and cons including new areas of the system
-```
+
+* Keeping in view the problems and new requirements
+* Workout the pros and cons including new areas of the system
+
 All procedures, requirements must be analysis and document in the form of detailed data flow
 diagrams (DFDs), data dictionary, logic data structures and miniature specification. System
-Analysis also includes sub-dividing of complex process involving the entire system, identification
-of data store and manual processes
+Analysis also includes sub-dividing of complex process involving the entire system, identification of data store and manual processes
 
 Code Generation
 
@@ -305,22 +299,22 @@ But in future we can make the Application where the database will be hosted in o
 the all departments which will be located in different places and by keeping domain of Application
 as Online.
 
-```
-!(https://github.com/zaidkhn/smartoll/blob/main/smartoll%20images/6.png)
+
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/6.png?raw=true)
 Fig.4.1.1 DFD Diagram
-```
-!(https://github.com/zaidkhn/smartoll/blob/main/smartoll%20images/7.png)
+
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/7.png?raw=true)
 Fig.4.1.2. Activity Diagram.
 
 
 ### Use Case Diagram
-!(https://github.com/zaidkhn/smartoll/blob/main/smartoll%20images/8.png)
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/8.png?raw=true)
 Fig.4.1.3.
 
-```
-!(https://github.com/zaidkhn/smartoll/blob/main/smartoll%20images/9.png)
+
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/9.png?raw=true)
 Fig.4.1.4. Gantt Chart.
-```
+
 
 ### 4.2 REQUIREMENTS
 
@@ -340,7 +334,7 @@ microcontroller must connected to internet to update the Qrcode.
 
 The minimum hardware required for the development of the project is as follows-
 
-```
+
 QR Code Scanner
 Wi-fi Module.
 Microcontroller
@@ -349,7 +343,7 @@ Server (Recommended).
 Core i3 or Higher.
 RAM (1GB) or Higher.
 HDD (100GB).
-```
+
 This all are the minimum hardware requirement required for our project. We want to make our
 project to be used in any type of computer therefore we have taken minimum configuration to a
 large extent 4GB ram is used so that we can execute our project in a least possible ram 5GB hard
@@ -361,13 +355,13 @@ disk used. Other enhancement are according to the needs.
 
 Various software’s are needed in this project for its development.
 
-```
- Windows 7 or higher.
- Android Studio/ Eclipse.
-```
+
+* Windows 7 or higher.
+* Android Studio/ Eclipse.
+
 We have implemented our project in various languages, below is the description of them:
 
- JAVA:
+* JAVA:
 Java is a general-purpose computer programming language that is concurrent, class- based,
 object-oriented, and specifically designed to have as few implementation dependencies as
 possible. It is intended to let application developers "write once, run anywhere" (WORA)
@@ -387,7 +381,7 @@ implementations of these Sun technologies, such as the GNU Compiler for java (by
 compiler), GNU Class path (standard libraries), and Iced Tea-Web (browser plugin for
 applets).The latest version is Java 8 Update 121 which is the only version currently supported
 for free by Oracle.
- BOOTSTARP:
+* BOOTSTARP:
 Bootstrap is a free and open-source front-end web framework for designing websites and web
 applications. It contains HTML-and CSS-based design templates for typography forms,
 
@@ -405,7 +399,7 @@ development team. It was renamed from Twitter Blueprint to Bootstrap, and releas
 open source project on August 19, 2011. It has continued to be maintained by Mark Otto, Jacob
 Thomton, and a small group of core developers, as well as a large community of contributors.
 
- PHP (Hypertext Pre-processor)
+* PHP (Hypertext Pre-processor)
 Hypertext Pre-processor (PHP), is a widely used, general-purpose scripting language that was
 originally designed for web development, to produce dynamic web pages. It can be embedded
 into HTML and generally runs on a web server, which needs to be configured to process PHP
@@ -456,6 +450,23 @@ deployment.
     used the product then the feedback is taken from the customers and support is provided if
     required.
 
+###4.4 RESULTS AND REPORTS
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/10.png?raw=true)
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/11.png?raw=true)
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/12.png?raw=true)
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/13.png?raw=true)
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/14.png?raw=true)
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/15.png?raw=true)
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/16.png?raw=true)
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/17.png?raw=true)
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/18.png?raw=true)
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/19.png?raw=true)
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/20.png?raw=true)
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/21.png?raw=true)
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/22.png?raw=true)
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/23.png?raw=true)
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/24.png?raw=true)
+![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/25.png?raw=true)
 
 ## CHAPTER 5
 
@@ -486,13 +497,13 @@ completed different task to provide a better Toll System.
 
 ### REFERENCES AND BIBLOGRAPHY
 
- [http://www.google.com](http://www.google.com)
- [http://www.irjaes.com/pdf/IRJAES-V1N2Y16/IRJAES-V1N2P16Y16.pdf](http://www.irjaes.com/pdf/IRJAES-V1N2Y16/IRJAES-V1N2P16Y16.pdf)
- [http://www.slideshare.net/rohankale05/automatic-toll-collection-system-presentation](http://www.slideshare.net/rohankale05/automatic-toll-collection-system-presentation)
- [http://www.wikipedia.com](http://www.wikipedia.com)
- [http://www.stackoverflow.com](http://www.stackoverflow.com)
- [http://www.tutorialspoint.com](http://www.tutorialspoint.com)
- [http://www.w3schools.com](http://www.w3schools.com)
+* [http://www.google.com](http://www.google.com)
+* [http://www.irjaes.com/pdf/IRJAES-V1N2Y16/IRJAES-V1N2P16Y16.pdf](http://www.irjaes.com/pdf/IRJAES-V1N2Y16/IRJAES-V1N2P16Y16.pdf)
+* [http://www.slideshare.net/rohankale05/automatic-toll-collection-system-presentation](http://www.slideshare.net/rohankale05/automatic-toll-collection-system-presentation)
+* [http://www.wikipedia.com](http://www.wikipedia.com)
+* [http://www.stackoverflow.com](http://www.stackoverflow.com)
+* [http://www.tutorialspoint.com](http://www.tutorialspoint.com)
+* [http://www.w3schools.com](http://www.w3schools.com)
 
 
 ### 7.1 MEMBERS
