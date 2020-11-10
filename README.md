@@ -42,6 +42,7 @@ toll payment app.
 
 
 ![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/3.png?raw=true)
+
 Fig.1.1.1. Registration for Toll Payment via Mobile Application.
 
 
