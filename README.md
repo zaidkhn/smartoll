@@ -385,8 +385,6 @@ for free by Oracle.
 * BOOTSTARP:
 Bootstrap is a free and open-source front-end web framework for designing websites and web
 applications. It contains HTML-and CSS-based design templates for typography forms,
-
-
 buttons navigation and other interface components, as well as optional JavaScript extensions.
 Unlike many web frameworks, it concerns itself with front-end development only.
 Bootstrap is the second most-started project on GitHub, with more than 107,000 stars and
@@ -451,7 +449,7 @@ deployment.
     used the product then the feedback is taken from the customers and support is provided if
     required.
 
-###4.4 RESULTS AND REPORTS
+### 4.4 RESULTS AND REPORTS
 ![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/10.png?raw=true)
 ![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/11.png?raw=true)
 ![Image](https://github.com//zaidkhn/smartoll/blob/main/smartoll%20images/12.png?raw=true)
